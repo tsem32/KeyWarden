@@ -2,9 +2,9 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/../SwipeRevealLayout-master.iml" filepath="$PROJECT_DIR$/../SwipeRevealLayout-master.iml" />
-      <module fileurl="file://$PROJECT_DIR$/demo.iml" filepath="$PROJECT_DIR$/demo.iml" />
-      <module fileurl="file://$PROJECT_DIR$/../swipe-reveal-layout/swipe-reveal-layout.iml" filepath="$PROJECT_DIR$/../swipe-reveal-layout/swipe-reveal-layout.iml" />
+      <module fileurl="file://$PROJECT_DIR$/KeyWarden/KeyWarden.iml" filepath="$PROJECT_DIR$/KeyWarden/KeyWarden.iml" />
+      <module fileurl="file://$PROJECT_DIR$/KeyWarden-master.iml" filepath="$PROJECT_DIR$/KeyWarden-master.iml" />
+      <module fileurl="file://$PROJECT_DIR$/swipe-reveal-layout/swipe-reveal-layout.iml" filepath="$PROJECT_DIR$/swipe-reveal-layout/swipe-reveal-layout.iml" />
     </modules>
   </component>
 </project>
